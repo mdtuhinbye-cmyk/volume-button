@@ -1,0 +1,6 @@
+{
+  "name": "Network Fix BD",
+  "description": "Android Network & SIM Troubleshooting App with real diagnostics, guides, repair shop tools, Bangla/English support, and AdMob integration readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
